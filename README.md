@@ -15,11 +15,11 @@ A real attack was simulated from Kali Linux against a Windows machine, and Wazuh
 
 ### 🐉 Kali Linux Attacker Machine
 
-![Kali IP](Kali-ip.png)
+![Kali IP](02-Kali-ip.png)
 
 ### 🛡️ Wazuh SIEM Server
 
-![Wazuh Server](Wazuh-Server-ip.png)
+![Wazuh Server](03-Wazuh-Server-ip.png)
 
 ---
 
@@ -47,7 +47,7 @@ A real attack was simulated from Kali Linux against a Windows machine, and Wazuh
 
 RDP service discovery on Windows target:
 
-![Nmap Scan](Nmap-scan.png)
+![Nmap Scan](04-Nmap-scan.png)
 
 ---
 
@@ -55,7 +55,7 @@ RDP service discovery on Windows target:
 
 Simulated multiple login attempts from Kali:
 
-![Hydra Attack](Hydra-attack.png)
+![Hydra Attack](05-Hydra-attack.png)
 
 ---
 
@@ -63,7 +63,7 @@ Simulated multiple login attempts from Kali:
 
 Wazuh detected Windows Event ID 4625:
 
-![Authentication Failures](Authentication-failures.png)
+![Authentication Failures](07-Authentication-failures.png)
 
 ---
 
@@ -71,7 +71,7 @@ Wazuh detected Windows Event ID 4625:
 
 Real-time SIEM alerts generated:
 
-![Security Events](Security-events.png)
+![Security Events](08-Security-events.png)
 
 ---
 
@@ -82,7 +82,7 @@ Attack automatically mapped to:
 * T1110 – Brute Force
 * T1078 – Valid Accounts
 
-![MITRE Mapping](MITRE-mapping.png)
+![MITRE Mapping](09-MITRE-mapping.png)
 
 ---
 
@@ -90,7 +90,7 @@ Attack automatically mapped to:
 
 Complete visualization of alerts and attack activity:
 
-![Wazuh Dashboard](Wazuh-dashboard.png)
+![Wazuh Dashboard](06-Wazuh-dashboard.png)
 
 ---
 
