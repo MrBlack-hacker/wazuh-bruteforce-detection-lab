@@ -79,7 +79,7 @@ Real-time SIEM alerts generated:
 
 Attack automatically mapped to:
 
-* T1110 – Brute Force
+* T1531 - Account Access Removal
 * T1078 – Valid Accounts
 
 ![MITRE Mapping](09-MITRE-mapping.png)
