@@ -11,7 +11,7 @@ A real attack was simulated from Kali Linux against a Windows machine, and Wazuh
 
 ### 🖥️ Windows Target Machine
 
-![Windows IP](Windows-ip.png)
+![Windows IP](01-Windows-ip.png)
 
 ### 🐉 Kali Linux Attacker Machine
 
