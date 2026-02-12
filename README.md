@@ -63,7 +63,7 @@ Simulated multiple login attempts from Kali:
 
 Wazuh detected Windows Event ID 4625:
 
-![Authentication Failures](07-Authentication-failures.png)
+![Authentication Failures](08-Security-events.png)
 
 ---
 
@@ -71,7 +71,7 @@ Wazuh detected Windows Event ID 4625:
 
 Real-time SIEM alerts generated:
 
-![Security Events](08-Security-events.png)
+![Security Events](07-Authentication-failures.png)
 
 ---
 
